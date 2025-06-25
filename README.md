@@ -18,7 +18,7 @@ transformers==4.51.3
 
 ## Datasets info
 
-Please download the T-drive dataset [here](https://hub.marinecadastre.gov/), and then extract it in `data` folder.
+Please download the Southeastern and Western dataset [here](https://hub.marinecadastre.gov/), and then extract it in `data` folder.
 
 ## Data preprocessing
 
