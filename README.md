@@ -18,7 +18,7 @@ transformers==4.51.3
 
 ## Datasets info
 
-Please download the Southeastern and Western dataset [here](https://drive.google.com/file/d/1mZgFtAUj4utaHKD_z9Ly95xgc45J_kZc/view), and then extract it in `data` folder.
+Please download the Southeastern and Western dataset [here](https://drive.google.com/file/d/1mZgFtAUj4utaHKD_z9Ly95xgc45J_kZc/view?usp=drive_web), and then extract it in `data` folder.
 If you want to download more data, you can click [here](https://hub.marinecadastre.gov/)
 
 ## Data preprocessing
